@@ -1,0 +1,36 @@
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.csproj.AssemblyReference.cache
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.AssemblyInfoInputs.cache
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.AssemblyInfo.cs
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.csproj.CoreCompileInputs.cache
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.exe
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.deps.json
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.runtimeconfig.json
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.pdb
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\refint\CreditSuisseTest.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.pdb
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.genruntimeconfig.cache
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\ref\CreditSuisseTest.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.csproj.CopyComplete
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.exe
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.deps.json
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.runtimeconfig.json
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\bin\Debug\net7.0\CreditSuisseTest.pdb
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.csproj.AssemblyReference.cache
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.AssemblyInfoInputs.cache
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.AssemblyInfo.cs
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.csproj.CoreCompileInputs.cache
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.csproj.CopyComplete
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\refint\CreditSuisseTest.dll
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.pdb
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\CreditSuisseTest.genruntimeconfig.cache
+C:\Users\erick.feijo\source\repos\CreditSuisseTest\Question 1\CreditSuisseTest\obj\Debug\net7.0\ref\CreditSuisseTest.dll

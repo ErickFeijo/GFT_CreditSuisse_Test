@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYlVcOd3ihWoobsO/PQJLJL4gTJucR92HhsSmNc7GgbP+aVDz2m9Zj4jJ8mF5n5a9TvJRtHr/Bwap4N2eWDjsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erick.feijo\\source\\repos\\CreditSuisseTest\\Question 1\\CreditSuisseTest\\CreditSuisseTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick.feijo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\erick.feijo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
